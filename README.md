@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Magar</h1>
-<h3 align="center">Frontend Developer UI/UX designer.</h3>
+<h3 align="center">html, css, javascript, react js.</h3>
 
 - 🌱 I’m currently learning **web designing and UI/UX designing**
 
