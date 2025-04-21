@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Magar</h1>
 <h3 align="center"</h3>
 
-- 🌱 I’m currently learning **web designing and UI/UX designing**
+- 🌱 I’m currently learning **html, css, JavaScript, react js, bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
